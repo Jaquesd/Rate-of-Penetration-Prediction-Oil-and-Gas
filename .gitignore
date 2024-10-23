@@ -8,4 +8,4 @@ __pycache__/
 #database
 
 # Ignore .gitignore
-#.gitignore
+.gitignore
